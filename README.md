@@ -1,7 +1,7 @@
 pdf.js.utils
 ============
 
-PDF Utilities
+https://github.com/Ignacemwebe/LearnLingala/blob/main/lingala.pdf
 
 [browser](http://brendandahl.github.io/pdf.js.utils/browser/) - explore the internal structure and contents of a PDF file
 
